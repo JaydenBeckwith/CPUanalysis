@@ -1,1 +1,1 @@
-# GPUanalysis using various ML approaches
+# CPUanalysis using various ML approaches
