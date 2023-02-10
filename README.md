@@ -1,6 +1,8 @@
 # CPUanalysis using various ML approaches
 
-Utilising the CPU dataset
+Performing various machine learning techniques on the CPU dataset.
+
+Utilising the CPU dataset to perform:
 - EDA
 - Data cleaning
 - feature selection
